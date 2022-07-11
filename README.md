@@ -20,6 +20,8 @@ The application supports two modes:
     * `BACKSPACE KEY`: Takes user up to one level.
     * `HOME KEY`: Takes user back to root directory, i.e., where the application was started.
     * `UP and DOWN keys`: used for moving cursor up and down to desired file or directory
+#### Sample of Normal Mode
+![Screenshot (439)](https://user-images.githubusercontent.com/72462189/178281852-c45a46c8-1feb-4b37-86e2-eacd1768a3d5.png)
 
 ### Command Mode
 This mode is entered from Normal mode whenever `:` is pressed.
@@ -36,6 +38,9 @@ Paths starting with `/` are relative paths with respect to the current directory
 * `SEARCH`: search <file_name / directory_name>
 * `GOTO`: goto <directory_path>
 Pressing ESC KEY takes user back to Normal Mode.
+
+#### Sample of Command Mode
+![Screenshot (440)](https://user-images.githubusercontent.com/72462189/178282192-f2f1af38-49a7-4874-9307-b6660da8e5fd.png)
 
 #### How to execute the program-
 * Open the terminal with root of the application folder as the present working directory
