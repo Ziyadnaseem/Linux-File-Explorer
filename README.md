@@ -42,7 +42,7 @@ Pressing ESC KEY takes user back to Normal Mode.
 #### Sample of Command Mode
 ![Screenshot (440)](https://user-images.githubusercontent.com/72462189/178282192-f2f1af38-49a7-4874-9307-b6660da8e5fd.png)
 
-#### How to execute the program-
+### How to execute the program-
 * Open the terminal with root of the application folder as the present working directory
 * Compile the cpp file: `g++ main.cpp`
 * Run the executable file: `./a.out`
